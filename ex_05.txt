@@ -1,0 +1,2 @@
+"Running fiddle"
+"Uncaught SyntaxError: Unexpected identifier 'Code'"
